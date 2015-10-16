@@ -1,6 +1,10 @@
-# grunt
-Automação de tarefas com Grunt
+# sass
+Pré-processamento de css com Sass
 
-- Live reload
-- Pré-processamento sass automatizado
-- Minificação css/js
+- Variables
+- Nesting
+- Partials
+- Import
+- Mixins
+- Extend
+- Operators
